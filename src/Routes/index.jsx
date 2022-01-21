@@ -14,6 +14,9 @@ function Routes() {
           <SignUp />
         </Route>
       </Switch>
+      {/* <Route>
+
+      </Route> */}
     </>
   );
 }
